@@ -12,7 +12,7 @@
 
 - Clone the repository
 ```
-$ git clone
+$ git clone https://github.com/anjupriya-v/command-line-note-taking-app.git
 ```
 - Redirect to the cloned repo directory
 
